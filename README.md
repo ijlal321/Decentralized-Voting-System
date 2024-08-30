@@ -1,5 +1,7 @@
 # Decentralized Voting System
 
+# Live Preview: [Decentralized Voting System](https://ijlal321.github.io/Decentralized-Voting-System/#/)
+
 Welcome to the Decentralized Voting System, a cutting-edge platform built on the Ethereum Sepolia test network. This project aims to provide a transparent, efficient, and scalable solution for managing and participating in voting campaigns within decentralized organizations.
 
 ## Table of Contents
@@ -17,8 +19,6 @@ Welcome to the Decentralized Voting System, a cutting-edge platform built on the
 
 ## Introduction
 The Decentralized Voting System is designed to facilitate secure, transparent, and efficient voting processes within organizations. This system allows the creation of organizations, initiation of voting campaigns, and submission of votes in a decentralized environment. By leveraging Ethereum smart contracts, we ensure that every vote is counted fairly, and every organization's operations are transparent and trustworthy.
-
-Live Preview:** [Decentralized Voting System](https://ijlal321.github.io/Decentralized-Voting-System/#/)
 
 ## Key Features
 - **Scalable Design:** Supports a large number of organizations and votes while minimizing transaction fees.
